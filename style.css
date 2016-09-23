@@ -14,8 +14,8 @@ img{
     margin-right: auto;
     width: 6em
 	max-height:550px; 
-	width:70%;
-	height:100%;
+	width:62%;
+	height:62%;
 }
 image{
 	 display: block;
@@ -26,9 +26,7 @@ image{
 	margin-top: 50px;
 }
 .jumbotron {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-bottom: 30px;
+    margin:18%;
     color: inherit;
     background-color:black;
 }
@@ -40,4 +38,7 @@ ul{
 }
 p{
 	color:orange;
+}
+.axn{
+	margin:5%;
 }
